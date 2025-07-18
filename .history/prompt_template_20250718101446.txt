@@ -1,0 +1,11 @@
+You are an AI assistant. From the given user input, extract the following fields and return them in JSON:
+
+{
+  "name": "...",
+  "email": "...",
+  "phone": "...",
+  "position": "...",
+  "linkedin": "..."
+}
+
+If any data is missing, return null.

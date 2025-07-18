@@ -1,0 +1,8 @@
+Flask
+cohere
+python-dotenv
+
+Flask-SQLAlchemy
+Flask-WTF
+pandas
+openpyxl
